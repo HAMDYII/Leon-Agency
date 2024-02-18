@@ -16,4 +16,4 @@ Hosted At -> https://leon-agecny-services.netlify.app
 
 ## Demo Images
 
-![screen-gif](./images/gif.gif)
+![screen-gif](images/gif.gif)
