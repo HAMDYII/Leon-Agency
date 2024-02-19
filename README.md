@@ -16,4 +16,6 @@ Hosted at -> https://leon-agency-services.netlify.app
 
 ## Demo Images
 
-![landing](./leon-landing/landing-pc.jpg) ![landing-mobile](./leon-landing/about-mobile.jpg)
+![landing](./leon-landing/landing-pc.jpg) 
+
+![landing-mobile](./leon-landing/landing-mobile.jpg)
