@@ -17,5 +17,25 @@ Hosted at -> https://leon-agency-services.netlify.app
 ## Demo Images
 
 ![landing](./leon-landing/landing-pc.jpg) 
-
 ![landing-mobile](./leon-landing/landing-mobile.jpg)
+
+<br/>
+
+![services](./leon-landing/services-pc.jpg) 
+Implementing the use of CSS grid makes for seamless responsive experience across varies screen sizes
+![services-mobile](./leon-landing/services-mobile.jpg) 
+
+<br/>
+
+![portfolio-pc](./leon-landing/portfolio-pc.jpg)
+![portfolio-mobile](./leon-landing/portfolio-mobile.jpg)
+
+<br/>
+
+![about-pc](./leon-landing/about-pc.jpg)
+![about-mobile](./leon-landing/about-mobile.jpg)
+
+<br/>
+
+![contact-pc](./leon-landing/contact-pc.jpg)
+![contact-mobile](./leon-landing/contact-mobile.jpg)
