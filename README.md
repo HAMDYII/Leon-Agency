@@ -4,7 +4,7 @@ Leon Agency is a landing page for a fictional agency that provides cutting-edge 
 Which believe in transforming ideas into impactful digital experiences. 
 The agency is dedicated to providing innovative solutions that empower businesses to thrive in the digital landscape.
 
-Hosted At -> https://leon-agency-services.netlify.app
+Hosted at -> https://leon-agency-services.netlify.app
 
 ## Technologies & Design Approach
 
@@ -16,4 +16,6 @@ Hosted At -> https://leon-agency-services.netlify.app
 
 ## Demo Images
 
-![landing](./leon-landing/landing-pc.jpg)
+![landing](./leon-landing/landing-pc.jpg) 
+
+![landing-mobile](./leon-landing/landing-mobile.jpg)
